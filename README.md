@@ -7,7 +7,7 @@
 
 Set your graffiti
 ```
-docker run --rm -it --network host --volume $HOME/.ironfish:/root/.ironfish ghcr.io/iron-fish/ironfish:latest config:set blockGraffiti "graffiti"
+docker run --rm -it --network host --volume $HOME/.ironfish:/root/.ironfish ghcr.io/iron-fish/ironfish:latest config:set blockGraffiti "air"
 ```
 
 run services:
